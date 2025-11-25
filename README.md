@@ -9,8 +9,8 @@ This information can be used by a DLP tool to identify and track the movement of
 
 ## Requirements
 - Windows 10 or later
-- PowerShell 5.1 or later on Windows
-- .NET Framework 4.5 or later on Windows
+- PowerShell 5.1 or later
+- .NET Framework 4.5 or later
 
 ## Limitations
 The PowerShell script cannot extract metadata from encrypted Purview files.
